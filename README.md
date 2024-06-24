@@ -5,7 +5,7 @@
 ## Hi 👋, I'm Pawan Kumar 
 
 ## About Me 
-I'm a passionate Salesforce Developer with extensive experience in building robust applications on the Salesforce platform. My skills range from backend development with Apex and SQL to frontend UI/UX design using HTML, CSS, and JavaScript. I also have proficiency in modern frameworks like Lightning Web Components (LWC) and React, along with Node.js for server-side scripting.
+I'm a passionate Salesforce Developer with extensive experience in building robust applications on the Salesforce platform. My skills range from Salesfore Administration to backend development with Apex and SQL to frontend UI/UX design using HTML, CSS, and JavaScript. I also have proficiency in modern frameworks like Lightning Web Components (LWC) and React, along with Node.js for server-side scripting.
 
 ## Skills
 
