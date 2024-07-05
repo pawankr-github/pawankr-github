@@ -12,7 +12,7 @@ I'm a passionate Salesforce Developer with extensive experience in building robu
 - **Salesforce:** Apex, Visualforce, Lightning Web Components (LWC), Salesforce Lightning Platform
 - **Frontend:** HTML5, CSS3, JavaScript (ES6+), Lwc, React
 - **Backend:** SQL, Node.js, Express.js, MongoDB
-- **Others:** Git, RESTful APIs, Responsive Design, Azure Devops
+- **Others:** Git, Github, RESTful, APIs, Responsive Design, Azure Devops
 
 ## Projects
 
